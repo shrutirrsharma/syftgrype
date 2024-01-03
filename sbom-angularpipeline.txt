@@ -1,0 +1,5076 @@
+[Path: /home/ssharma/emmanuel/AngularCRUD]
+[@aashutoshrathi/word-wrap]
+ Version:	 1.2.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@adobe/css-tools]
+ Version:	 4.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@ampproject/remapping]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-devkit/architect]
+ Version:	 0.1402.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-devkit/build-angular]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-devkit/build-webpack]
+ Version:	 0.1402.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-devkit/core]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-devkit/schematics]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-eslint/bundled-angular-compiler]
+ Version:	 17.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-eslint/eslint-plugin]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-eslint/eslint-plugin-template]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-eslint/schematics]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular-eslint/template-parser]
+ Version:	 17.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/animations]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/cli]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/common]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/compiler]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/compiler-cli]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/core]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/forms]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/platform-browser]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/platform-browser-dynamic]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@angular/router]
+ Version:	 14.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@assemblyscript/loader]
+ Version:	 0.10.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/code-frame]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/compat-data]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/core]
+ Version:	 7.18.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/generator]
+ Version:	 7.18.12
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/generator]
+ Version:	 7.19.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-annotate-as-pure]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-annotate-as-pure]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-builder-binary-assignment-operator-visitor]
+ Version:	 7.22.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-compilation-targets]
+ Version:	 7.22.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-create-class-features-plugin]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-create-regexp-features-plugin]
+ Version:	 7.22.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-define-polyfill-provider]
+ Version:	 0.3.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-environment-visitor]
+ Version:	 7.22.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-function-name]
+ Version:	 7.23.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-hoist-variables]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-member-expression-to-functions]
+ Version:	 7.23.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-module-imports]
+ Version:	 7.22.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-module-transforms]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-optimise-call-expression]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-plugin-utils]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-remap-async-to-generator]
+ Version:	 7.22.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-replace-supers]
+ Version:	 7.22.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-simple-access]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-skip-transparent-expression-wrappers]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-split-export-declaration]
+ Version:	 7.22.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-string-parser]
+ Version:	 7.23.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-validator-identifier]
+ Version:	 7.22.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-validator-option]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helper-wrap-function]
+ Version:	 7.22.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/helpers]
+ Version:	 7.19.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/highlight]
+ Version:	 7.23.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/parser]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-async-generator-functions]
+ Version:	 7.18.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-class-properties]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-class-static-block]
+ Version:	 7.21.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-dynamic-import]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-export-namespace-from]
+ Version:	 7.18.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-json-strings]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-logical-assignment-operators]
+ Version:	 7.20.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-nullish-coalescing-operator]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-numeric-separator]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-object-rest-spread]
+ Version:	 7.20.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-optional-catch-binding]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-optional-chaining]
+ Version:	 7.21.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-private-methods]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-private-property-in-object]
+ Version:	 7.21.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-proposal-unicode-property-regex]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-async-generators]
+ Version:	 7.8.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-class-properties]
+ Version:	 7.12.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-class-static-block]
+ Version:	 7.14.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-dynamic-import]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-export-namespace-from]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-import-assertions]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-json-strings]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-logical-assignment-operators]
+ Version:	 7.10.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-nullish-coalescing-operator]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-numeric-separator]
+ Version:	 7.10.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-object-rest-spread]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-optional-catch-binding]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-optional-chaining]
+ Version:	 7.8.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-private-property-in-object]
+ Version:	 7.14.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-syntax-top-level-await]
+ Version:	 7.14.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-arrow-functions]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-async-to-generator]
+ Version:	 7.18.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-block-scoped-functions]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-block-scoping]
+ Version:	 7.23.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-classes]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-computed-properties]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-destructuring]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-dotall-regex]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-duplicate-keys]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-exponentiation-operator]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-for-of]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-function-name]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-literals]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-member-expression-literals]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-modules-amd]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-modules-commonjs]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-modules-systemjs]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-modules-umd]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-named-capturing-groups-regex]
+ Version:	 7.22.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-new-target]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-object-super]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-optional-chaining]
+ Version:	 7.23.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-parameters]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-property-literals]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-regenerator]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-reserved-words]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-runtime]
+ Version:	 7.18.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-shorthand-properties]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-spread]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-sticky-regex]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-template-literals]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-typeof-symbol]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-unicode-escapes]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/plugin-transform-unicode-regex]
+ Version:	 7.23.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/preset-env]
+ Version:	 7.18.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/preset-modules]
+ Version:	 0.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/regjsgen]
+ Version:	 0.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/runtime]
+ Version:	 7.18.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/runtime-corejs3]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/template]
+ Version:	 7.18.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/template]
+ Version:	 7.22.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/traverse]
+ Version:	 7.19.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@babel/types]
+ Version:	 7.23.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@colors/colors]
+ Version:	 1.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-cascade-layers]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-color-function]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-font-format-keywords]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-hwb-function]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-ic-unit]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-is-pseudo-class]
+ Version:	 2.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-nested-calc]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-normalize-display-values]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-oklab-function]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-progressive-custom-properties]
+ Version:	 1.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-stepped-value-functions]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-text-decoration-shorthand]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-trigonometric-functions]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/postcss-unset-value]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@csstools/selector-specificity]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@discoveryjs/json-ext]
+ Version:	 0.5.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@es-joy/jsdoccomment]
+ Version:	 0.41.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@esbuild/linux-loong64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@eslint-community/eslint-utils]
+ Version:	 4.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@eslint-community/regexpp]
+ Version:	 4.10.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@eslint/eslintrc]
+ Version:	 2.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@eslint/js]
+ Version:	 8.55.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@gar/promisify]
+ Version:	 1.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@humanwhocodes/config-array]
+ Version:	 0.11.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@humanwhocodes/module-importer]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@humanwhocodes/object-schema]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@istanbuljs/load-nyc-config]
+ Version:	 1.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@istanbuljs/schema]
+ Version:	 0.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/gen-mapping]
+ Version:	 0.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/gen-mapping]
+ Version:	 0.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/resolve-uri]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/set-array]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/source-map]
+ Version:	 0.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/sourcemap-codec]
+ Version:	 1.4.14
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@jridgewell/trace-mapping]
+ Version:	 0.3.15
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@leichtgewicht/ip-codec]
+ Version:	 2.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@ngtools/webpack]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@nodelib/fs.scandir]
+ Version:	 2.1.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@nodelib/fs.stat]
+ Version:	 2.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@nodelib/fs.walk]
+ Version:	 1.2.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/fs]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/git]
+ Version:	 3.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/installed-package-contents]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/move-file]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/node-gyp]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/promise-spawn]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@npmcli/run-script]
+ Version:	 4.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@schematics/angular]
+ Version:	 14.2.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@socket.io/component-emitter]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@tootallnate/once]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/body-parser]
+ Version:	 1.19.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/bonjour]
+ Version:	 3.5.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/connect]
+ Version:	 3.4.38
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/connect-history-api-fallback]
+ Version:	 1.5.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/cookie]
+ Version:	 0.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/cors]
+ Version:	 2.8.12
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/eslint]
+ Version:	 8.4.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/eslint-scope]
+ Version:	 3.7.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/estree]
+ Version:	 0.0.51
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/express]
+ Version:	 4.17.21
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/express-serve-static-core]
+ Version:	 4.17.41
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/http-errors]
+ Version:	 2.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/http-proxy]
+ Version:	 1.17.14
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/jasmine]
+ Version:	 3.10.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/json-schema]
+ Version:	 7.0.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/json5]
+ Version:	 0.0.29
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/mime]
+ Version:	 1.3.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/node]
+ Version:	 12.20.55
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/node-forge]
+ Version:	 1.3.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/parse-json]
+ Version:	 4.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/qs]
+ Version:	 6.9.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/range-parser]
+ Version:	 1.2.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/retry]
+ Version:	 0.12.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/send]
+ Version:	 0.17.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/serve-index]
+ Version:	 1.9.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/serve-static]
+ Version:	 1.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/sockjs]
+ Version:	 0.3.36
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@types/ws]
+ Version:	 8.5.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@typescript-eslint/experimental-utils]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@typescript-eslint/scope-manager]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@typescript-eslint/types]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@typescript-eslint/typescript-estree]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@typescript-eslint/visitor-keys]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@ungap/structured-clone]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/ast]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/floating-point-hex-parser]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/helper-api-error]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/helper-buffer]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/helper-numbers]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/helper-wasm-bytecode]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/helper-wasm-section]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/ieee754]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/leb128]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/utf8]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/wasm-edit]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/wasm-gen]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/wasm-opt]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/wasm-parser]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@webassemblyjs/wast-printer]
+ Version:	 1.11.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@xtuc/ieee754]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@xtuc/long]
+ Version:	 4.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[@yarnpkg/lockfile]
+ Version:	 1.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[abab]
+ Version:	 2.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[abbrev]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[accepts]
+ Version:	 1.3.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[acorn]
+ Version:	 8.11.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[acorn-import-assertions]
+ Version:	 1.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[acorn-jsx]
+ Version:	 5.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[adjust-sourcemap-loader]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[agent-base]
+ Version:	 6.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[agentkeepalive]
+ Version:	 4.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[aggregate-error]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv]
+ Version:	 6.12.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv]
+ Version:	 8.11.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv]
+ Version:	 8.12.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv-formats]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv-keywords]
+ Version:	 3.5.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ajv-keywords]
+ Version:	 5.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[angular-crud]
+ Version:	 0.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-colors]
+ Version:	 4.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-escapes]
+ Version:	 4.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-html-community]
+ Version:	 0.0.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-regex]
+ Version:	 5.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-styles]
+ Version:	 3.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ansi-styles]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[anymatch]
+ Version:	 3.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[aproba]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[are-docs-informative]
+ Version:	 0.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[are-we-there-yet]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[argparse]
+ Version:	 1.0.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[argparse]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[aria-query]
+ Version:	 4.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array-buffer-byte-length]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array-flatten]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array-flatten]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array-includes]
+ Version:	 3.1.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array-union]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array.prototype.findlastindex]
+ Version:	 1.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array.prototype.flat]
+ Version:	 1.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[array.prototype.flatmap]
+ Version:	 1.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[arraybuffer.prototype.slice]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[autoprefixer]
+ Version:	 10.4.16
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[available-typed-arrays]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[axobject-query]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[babel-loader]
+ Version:	 8.2.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[babel-plugin-istanbul]
+ Version:	 6.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[babel-plugin-polyfill-corejs2]
+ Version:	 0.3.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[babel-plugin-polyfill-corejs3]
+ Version:	 0.5.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[babel-plugin-polyfill-regenerator]
+ Version:	 0.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[balanced-match]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[base64-js]
+ Version:	 1.5.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[base64id]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[batch]
+ Version:	 0.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[big.js]
+ Version:	 5.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[binary-extensions]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[bl]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[body-parser]
+ Version:	 1.20.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[bonjour-service]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[boolbase]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[brace-expansion]
+ Version:	 1.1.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[brace-expansion]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[braces]
+ Version:	 3.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[browserslist]
+ Version:	 4.22.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[buffer]
+ Version:	 5.7.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[buffer-from]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[builtin-modules]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[builtin-modules]
+ Version:	 3.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[builtins]
+ Version:	 5.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[bytes]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[bytes]
+ Version:	 3.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cacache]
+ Version:	 16.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[call-bind]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[callsites]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[camelcase]
+ Version:	 5.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[caniuse-lite]
+ Version:	 1.0.30001566
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chalk]
+ Version:	 2.4.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chalk]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chalk]
+ Version:	 4.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chardet]
+ Version:	 0.7.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chokidar]
+ Version:	 3.5.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chownr]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[chrome-trace-event]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[clean-stack]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cli-cursor]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cli-spinners]
+ Version:	 2.7.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cli-width]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cliui]
+ Version:	 7.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[clone]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[clone-deep]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[coffeescript]
+ Version:	 1.12.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[color-convert]
+ Version:	 1.9.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[color-convert]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[color-name]
+ Version:	 1.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[color-name]
+ Version:	 1.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[color-support]
+ Version:	 1.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[colorette]
+ Version:	 2.0.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[commander]
+ Version:	 2.20.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[commander]
+ Version:	 6.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[comment-parser]
+ Version:	 1.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[commondir]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[compressible]
+ Version:	 2.0.18
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[compression]
+ Version:	 1.7.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[concat-map]
+ Version:	 0.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[connect]
+ Version:	 3.7.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[connect-history-api-fallback]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[console-control-strings]
+ Version:	 1.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[content-disposition]
+ Version:	 0.5.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[content-type]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[convert-source-map]
+ Version:	 1.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cookie]
+ Version:	 0.4.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cookie]
+ Version:	 0.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cookie-signature]
+ Version:	 1.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[copy-anything]
+ Version:	 2.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[copy-webpack-plugin]
+ Version:	 11.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[core-js-compat]
+ Version:	 3.33.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[core-js-pure]
+ Version:	 3.33.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[core-util-is]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cors]
+ Version:	 2.8.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cosmiconfig]
+ Version:	 7.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[critters]
+ Version:	 0.0.16
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cross-spawn]
+ Version:	 7.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cson-parser]
+ Version:	 4.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-blank-pseudo]
+ Version:	 3.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-has-pseudo]
+ Version:	 3.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-loader]
+ Version:	 6.7.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-prefers-color-scheme]
+ Version:	 6.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-select]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[css-what]
+ Version:	 6.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cssdb]
+ Version:	 7.9.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[cssesc]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[custom-event]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[date-format]
+ Version:	 4.0.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[debug]
+ Version:	 2.6.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[debug]
+ Version:	 3.2.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[debug]
+ Version:	 4.3.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[deep-is]
+ Version:	 0.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[default-gateway]
+ Version:	 6.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[defaults]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[define-data-property]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[define-lazy-prop]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[define-properties]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[delegates]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[depd]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[depd]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dependency-graph]
+ Version:	 0.11.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[destroy]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[detect-node]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[di]
+ Version:	 0.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[diff]
+ Version:	 4.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dir-glob]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dns-equal]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dns-packet]
+ Version:	 5.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[doctrine]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[doctrine]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dom-serialize]
+ Version:	 2.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[dom-serializer]
+ Version:	 1.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[domelementtype]
+ Version:	 2.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[domhandler]
+ Version:	 4.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[domutils]
+ Version:	 2.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ee-first]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[electron-to-chromium]
+ Version:	 1.4.601
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[emoji-regex]
+ Version:	 8.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[emojis-list]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[encodeurl]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[encoding]
+ Version:	 0.1.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[engine.io]
+ Version:	 6.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[engine.io-parser]
+ Version:	 5.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[enhanced-resolve]
+ Version:	 5.10.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ent]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[entities]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[env-paths]
+ Version:	 2.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[err-code]
+ Version:	 2.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[errno]
+ Version:	 0.1.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[error-ex]
+ Version:	 1.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[es-abstract]
+ Version:	 1.22.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[es-module-lexer]
+ Version:	 0.9.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[es-set-tostringtag]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[es-shim-unscopables]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[es-to-primitive]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-android-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-android-arm64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-darwin-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-darwin-arm64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-freebsd-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-freebsd-arm64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-32]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-arm]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-arm64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-mips64le]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-ppc64le]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-riscv64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-linux-s390x]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-netbsd-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-openbsd-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-sunos-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-wasm]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-windows-32]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-windows-64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esbuild-windows-arm64]
+ Version:	 0.15.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[escalade]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[escape-html]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[escape-string-regexp]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[escape-string-regexp]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint]
+ Version:	 8.55.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-config-prettier]
+ Version:	 6.15.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-import-resolver-node]
+ Version:	 0.3.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-module-utils]
+ Version:	 2.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-plugin-import]
+ Version:	 2.29.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-plugin-jsdoc]
+ Version:	 46.9.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-plugin-prefer-arrow]
+ Version:	 1.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-scope]
+ Version:	 5.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-scope]
+ Version:	 7.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-utils]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-visitor-keys]
+ Version:	 1.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-visitor-keys]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eslint-visitor-keys]
+ Version:	 3.4.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[espree]
+ Version:	 9.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esprima]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esquery]
+ Version:	 1.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esrecurse]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[estraverse]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[estraverse]
+ Version:	 5.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[esutils]
+ Version:	 2.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[etag]
+ Version:	 1.8.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eventemitter-asyncresource]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[eventemitter3]
+ Version:	 4.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[events]
+ Version:	 3.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[execa]
+ Version:	 5.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[exponential-backoff]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[express]
+ Version:	 4.18.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[extend]
+ Version:	 3.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[external-editor]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fast-deep-equal]
+ Version:	 3.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fast-glob]
+ Version:	 3.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fast-json-stable-stringify]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fast-levenshtein]
+ Version:	 2.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fastq]
+ Version:	 1.15.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[faye-websocket]
+ Version:	 0.11.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[figures]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[file-entry-cache]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fill-range]
+ Version:	 7.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[finalhandler]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[finalhandler]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[find-cache-dir]
+ Version:	 3.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[find-up]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[find-up]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[flat-cache]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[flatted]
+ Version:	 3.2.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[follow-redirects]
+ Version:	 1.15.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[for-each]
+ Version:	 0.3.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[forwarded]
+ Version:	 0.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fraction.js]
+ Version:	 4.3.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fresh]
+ Version:	 0.5.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fs-extra]
+ Version:	 8.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fs-minipass]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fs-monkey]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fs.realpath]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[fsevents]
+ Version:	 2.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[function-bind]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[function.prototype.name]
+ Version:	 1.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[functions-have-names]
+ Version:	 1.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[gauge]
+ Version:	 4.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[gensync]
+ Version:	 1.0.0-beta.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-caller-file]
+ Version:	 2.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-intrinsic]
+ Version:	 1.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-package-type]
+ Version:	 0.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-stdin]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-stream]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[get-symbol-description]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob]
+ Version:	 7.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob]
+ Version:	 7.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob]
+ Version:	 8.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob]
+ Version:	 8.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob-parent]
+ Version:	 5.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob-parent]
+ Version:	 6.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[glob-to-regexp]
+ Version:	 0.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[globals]
+ Version:	 11.12.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[globals]
+ Version:	 13.23.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[globalthis]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[globby]
+ Version:	 11.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[globby]
+ Version:	 13.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[gopd]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[graceful-fs]
+ Version:	 4.2.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[graphemer]
+ Version:	 1.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[handle-thing]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-bigints]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-flag]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-flag]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-property-descriptors]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-proto]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-symbols]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-tostringtag]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[has-unicode]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[hasown]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[hdr-histogram-js]
+ Version:	 2.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[hdr-histogram-percentiles-obj]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[hosted-git-info]
+ Version:	 5.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[hpack.js]
+ Version:	 2.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[html-entities]
+ Version:	 2.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[html-escaper]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-cache-semantics]
+ Version:	 4.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-deceiver]
+ Version:	 1.2.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-errors]
+ Version:	 1.6.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-errors]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-parser-js]
+ Version:	 0.5.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-proxy]
+ Version:	 1.18.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-proxy-agent]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[http-proxy-middleware]
+ Version:	 2.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[https-proxy-agent]
+ Version:	 5.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[human-signals]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[humanize-ms]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[iconv-lite]
+ Version:	 0.4.24
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[iconv-lite]
+ Version:	 0.6.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[icss-utils]
+ Version:	 5.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ieee754]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ignore]
+ Version:	 5.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ignore-walk]
+ Version:	 5.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[image-size]
+ Version:	 0.5.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[immutable]
+ Version:	 4.3.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[import-fresh]
+ Version:	 3.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[imurmurhash]
+ Version:	 0.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[indent-string]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[infer-owner]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[inflight]
+ Version:	 1.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[inherits]
+ Version:	 2.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[inherits]
+ Version:	 2.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ini]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[inquirer]
+ Version:	 8.2.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[internal-slot]
+ Version:	 1.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ip]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ipaddr.js]
+ Version:	 1.9.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ipaddr.js]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-array-buffer]
+ Version:	 3.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-arrayish]
+ Version:	 0.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-bigint]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-binary-path]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-boolean-object]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-builtin-module]
+ Version:	 3.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-callable]
+ Version:	 1.2.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-core-module]
+ Version:	 2.13.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-date-object]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-docker]
+ Version:	 2.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-extglob]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-fullwidth-code-point]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-glob]
+ Version:	 4.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-interactive]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-lambda]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-negative-zero]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-number]
+ Version:	 7.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-number-object]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-path-inside]
+ Version:	 3.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-plain-obj]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-plain-object]
+ Version:	 2.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-regex]
+ Version:	 1.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-shared-array-buffer]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-stream]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-string]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-symbol]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-typed-array]
+ Version:	 1.1.12
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-unicode-supported]
+ Version:	 0.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-weakref]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-what]
+ Version:	 3.14.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[is-wsl]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[isarray]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[isarray]
+ Version:	 2.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[isbinaryfile]
+ Version:	 4.0.10
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[isexe]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[isobject]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-lib-coverage]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-lib-instrument]
+ Version:	 4.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-lib-instrument]
+ Version:	 5.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-lib-report]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-lib-source-maps]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[istanbul-reports]
+ Version:	 3.1.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jasmine-core]
+ Version:	 3.99.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jasmine-core]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jest-worker]
+ Version:	 27.5.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[js-tokens]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[js-yaml]
+ Version:	 3.14.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[js-yaml]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsdoc-type-pratt-parser]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsesc]
+ Version:	 0.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsesc]
+ Version:	 2.5.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json-buffer]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json-parse-even-better-errors]
+ Version:	 2.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json-schema-traverse]
+ Version:	 0.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json-schema-traverse]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json-stable-stringify-without-jsonify]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json5]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json5]
+ Version:	 2.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[json5]
+ Version:	 2.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsonc-parser]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsonfile]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[jsonparse]
+ Version:	 1.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma]
+ Version:	 6.3.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma-chrome-launcher]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma-coverage]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma-jasmine]
+ Version:	 4.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma-jasmine-html-reporter]
+ Version:	 1.7.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[karma-source-map-support]
+ Version:	 1.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[keyv]
+ Version:	 4.5.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[kind-of]
+ Version:	 6.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[klona]
+ Version:	 2.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[less]
+ Version:	 4.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[less-loader]
+ Version:	 11.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[levn]
+ Version:	 0.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[license-webpack-plugin]
+ Version:	 4.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lines-and-columns]
+ Version:	 1.2.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[loader-runner]
+ Version:	 4.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[loader-utils]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[loader-utils]
+ Version:	 2.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[loader-utils]
+ Version:	 3.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[locate-path]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[locate-path]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lodash]
+ Version:	 4.17.20
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lodash]
+ Version:	 4.17.21
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lodash.debounce]
+ Version:	 4.0.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lodash.merge]
+ Version:	 4.6.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[log-symbols]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[log4js]
+ Version:	 6.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lru-cache]
+ Version:	 5.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lru-cache]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[lru-cache]
+ Version:	 7.18.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[magic-string]
+ Version:	 0.26.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[make-dir]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[make-dir]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[make-fetch-happen]
+ Version:	 10.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[media-typer]
+ Version:	 0.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[memfs]
+ Version:	 3.5.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[merge-descriptors]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[merge-stream]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[merge2]
+ Version:	 1.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[methods]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[micromatch]
+ Version:	 4.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mime]
+ Version:	 1.6.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mime]
+ Version:	 2.6.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mime-db]
+ Version:	 1.52.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mime-types]
+ Version:	 2.1.35
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mimic-fn]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mini-css-extract-plugin]
+ Version:	 2.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimalistic-assert]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimatch]
+ Version:	 3.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimatch]
+ Version:	 3.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimatch]
+ Version:	 5.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimatch]
+ Version:	 5.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minimist]
+ Version:	 1.2.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass]
+ Version:	 3.3.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-collect]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-fetch]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-flush]
+ Version:	 1.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-json-stream]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-pipeline]
+ Version:	 1.2.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minipass-sized]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[minizlib]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mkdirp]
+ Version:	 0.5.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mkdirp]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ms]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ms]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ms]
+ Version:	 2.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[multicast-dns]
+ Version:	 7.2.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[mute-stream]
+ Version:	 0.0.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[nanoid]
+ Version:	 3.3.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[natural-compare]
+ Version:	 1.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[needle]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[negotiator]
+ Version:	 0.6.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[neo-async]
+ Version:	 2.6.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[nice-napi]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[node-addon-api]
+ Version:	 3.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[node-forge]
+ Version:	 1.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[node-gyp]
+ Version:	 9.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[node-gyp-build]
+ Version:	 4.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[node-releases]
+ Version:	 2.0.14
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[nopt]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[normalize-package-data]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[normalize-path]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[normalize-range]
+ Version:	 0.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-bundled]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-bundled]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-install-checks]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-normalize-package-bin]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-normalize-package-bin]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-package-arg]
+ Version:	 9.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-packlist]
+ Version:	 5.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-pick-manifest]
+ Version:	 7.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-registry-fetch]
+ Version:	 13.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npm-run-path]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[npmlog]
+ Version:	 6.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[nth-check]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object-assign]
+ Version:	 4.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object-inspect]
+ Version:	 1.13.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object-keys]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object.assign]
+ Version:	 4.1.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object.fromentries]
+ Version:	 2.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object.groupby]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[object.values]
+ Version:	 1.1.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[obuf]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[on-finished]
+ Version:	 2.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[on-finished]
+ Version:	 2.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[on-headers]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[once]
+ Version:	 1.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[onetime]
+ Version:	 5.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[open]
+ Version:	 8.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[optionator]
+ Version:	 0.9.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ora]
+ Version:	 5.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[os-tmpdir]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-limit]
+ Version:	 2.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-limit]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-locate]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-locate]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-map]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-retry]
+ Version:	 4.6.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[p-try]
+ Version:	 2.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pacote]
+ Version:	 13.6.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pako]
+ Version:	 1.0.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parent-module]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse-json]
+ Version:	 5.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse-node-version]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse5]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse5-html-rewriting-stream]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse5-htmlparser2-tree-adapter]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parse5-sax-parser]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[parseurl]
+ Version:	 1.3.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-exists]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-is-absolute]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-key]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-parse]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-to-regexp]
+ Version:	 0.1.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[path-type]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[picocolors]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[picomatch]
+ Version:	 2.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pify]
+ Version:	 2.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pify]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[piscina]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pkg-dir]
+ Version:	 4.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss]
+ Version:	 8.4.31
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-attribute-case-insensitive]
+ Version:	 5.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-clamp]
+ Version:	 4.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-color-functional-notation]
+ Version:	 4.2.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-color-hex-alpha]
+ Version:	 8.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-color-rebeccapurple]
+ Version:	 7.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-custom-media]
+ Version:	 8.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-custom-properties]
+ Version:	 12.1.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-custom-selectors]
+ Version:	 6.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-dir-pseudo-class]
+ Version:	 6.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-double-position-gradients]
+ Version:	 3.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-env-function]
+ Version:	 4.0.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-focus-visible]
+ Version:	 6.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-focus-within]
+ Version:	 5.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-font-variant]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-gap-properties]
+ Version:	 3.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-image-set-function]
+ Version:	 4.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-import]
+ Version:	 15.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-initial]
+ Version:	 4.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-lab-function]
+ Version:	 4.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-loader]
+ Version:	 7.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-logical]
+ Version:	 5.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-media-minmax]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-modules-extract-imports]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-modules-local-by-default]
+ Version:	 4.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-modules-scope]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-modules-values]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-nesting]
+ Version:	 10.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-opacity-percentage]
+ Version:	 1.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-overflow-shorthand]
+ Version:	 3.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-page-break]
+ Version:	 3.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-place]
+ Version:	 7.0.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-preset-env]
+ Version:	 7.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-pseudo-class-any-link]
+ Version:	 7.1.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-replace-overflow-wrap]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-selector-not]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-selector-parser]
+ Version:	 6.0.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[postcss-value-parser]
+ Version:	 4.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[prelude-ls]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[pretty-bytes]
+ Version:	 5.6.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[proc-log]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[process-nextick-args]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[promise-inflight]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[promise-retry]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[proxy-addr]
+ Version:	 2.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[prr]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[punycode]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[qjobs]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[qs]
+ Version:	 6.11.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[queue-microtask]
+ Version:	 1.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[randombytes]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[range-parser]
+ Version:	 1.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[raw-body]
+ Version:	 2.5.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[read-cache]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[read-package-json]
+ Version:	 5.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[read-package-json-fast]
+ Version:	 2.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[readable-stream]
+ Version:	 2.3.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[readable-stream]
+ Version:	 3.6.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[readdirp]
+ Version:	 3.6.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[reflect-metadata]
+ Version:	 0.1.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regenerate]
+ Version:	 1.4.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regenerate-unicode-properties]
+ Version:	 10.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regenerator-runtime]
+ Version:	 0.13.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regenerator-runtime]
+ Version:	 0.14.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regenerator-transform]
+ Version:	 0.15.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regex-parser]
+ Version:	 2.2.11
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regexp.prototype.flags]
+ Version:	 1.5.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regexpu-core]
+ Version:	 5.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[regjsparser]
+ Version:	 0.9.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[require-directory]
+ Version:	 2.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[require-from-string]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[requires-port]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[resolve]
+ Version:	 1.22.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[resolve]
+ Version:	 1.22.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[resolve-from]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[resolve-from]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[resolve-url-loader]
+ Version:	 5.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[restore-cursor]
+ Version:	 3.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[retry]
+ Version:	 0.12.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[retry]
+ Version:	 0.13.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[reusify]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[rfdc]
+ Version:	 1.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[rimraf]
+ Version:	 3.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[run-async]
+ Version:	 2.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[run-parallel]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[rxjs]
+ Version:	 6.6.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[rxjs]
+ Version:	 7.5.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[safe-array-concat]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[safe-buffer]
+ Version:	 5.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[safe-buffer]
+ Version:	 5.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[safe-regex-test]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[safer-buffer]
+ Version:	 2.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sass]
+ Version:	 1.54.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sass-loader]
+ Version:	 13.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sax]
+ Version:	 1.2.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sax]
+ Version:	 1.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[schema-utils]
+ Version:	 2.7.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[schema-utils]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[schema-utils]
+ Version:	 4.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[select-hose]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[selfsigned]
+ Version:	 2.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[semver]
+ Version:	 5.7.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[semver]
+ Version:	 6.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[semver]
+ Version:	 6.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[semver]
+ Version:	 7.5.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[semver]
+ Version:	 7.5.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[send]
+ Version:	 0.18.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[serialize-javascript]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[serve-index]
+ Version:	 1.9.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[serve-static]
+ Version:	 1.15.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[set-blocking]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[set-function-length]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[set-function-name]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[setprototypeof]
+ Version:	 1.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[setprototypeof]
+ Version:	 1.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[shallow-clone]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[shebang-command]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[shebang-regex]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[side-channel]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[signal-exit]
+ Version:	 3.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[slash]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[slash]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[smart-buffer]
+ Version:	 4.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[socket.io]
+ Version:	 4.5.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[socket.io-adapter]
+ Version:	 2.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[socket.io-parser]
+ Version:	 4.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sockjs]
+ Version:	 0.3.24
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[socks]
+ Version:	 2.7.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[socks-proxy-agent]
+ Version:	 7.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[source-map]
+ Version:	 0.6.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[source-map]
+ Version:	 0.7.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[source-map-js]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[source-map-loader]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[source-map-support]
+ Version:	 0.5.21
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sourcemap-codec]
+ Version:	 1.4.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdx-correct]
+ Version:	 3.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdx-exceptions]
+ Version:	 2.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdx-expression-parse]
+ Version:	 3.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdx-license-ids]
+ Version:	 3.0.16
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdy]
+ Version:	 4.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[spdy-transport]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[sprintf-js]
+ Version:	 1.0.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ssri]
+ Version:	 9.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[statuses]
+ Version:	 1.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[statuses]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[streamroller]
+ Version:	 3.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string-width]
+ Version:	 4.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string.prototype.trim]
+ Version:	 1.2.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string.prototype.trimend]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string.prototype.trimstart]
+ Version:	 1.0.7
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string_decoder]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[string_decoder]
+ Version:	 1.3.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[strip-ansi]
+ Version:	 6.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[strip-bom]
+ Version:	 3.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[strip-final-newline]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[strip-json-comments]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[stylus]
+ Version:	 0.59.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[stylus-loader]
+ Version:	 7.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[supports-color]
+ Version:	 5.5.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[supports-color]
+ Version:	 7.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[supports-color]
+ Version:	 8.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[supports-preserve-symlinks-flag]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[symbol-observable]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tapable]
+ Version:	 2.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tar]
+ Version:	 6.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[terser]
+ Version:	 5.14.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[terser]
+ Version:	 5.15.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[terser-webpack-plugin]
+ Version:	 5.3.6
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[test-exclude]
+ Version:	 6.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[text-table]
+ Version:	 0.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[through]
+ Version:	 2.3.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[thunky]
+ Version:	 1.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tmp]
+ Version:	 0.0.33
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tmp]
+ Version:	 0.2.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[to-fast-properties]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[to-regex-range]
+ Version:	 5.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[toidentifier]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tree-kill]
+ Version:	 1.2.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tsconfig-paths]
+ Version:	 3.14.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tslib]
+ Version:	 1.14.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tslib]
+ Version:	 2.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tslint]
+ Version:	 6.1.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tslint-to-eslint-config]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tsutils]
+ Version:	 2.29.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[tsutils]
+ Version:	 3.21.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[type-check]
+ Version:	 0.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[type-fest]
+ Version:	 0.20.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[type-fest]
+ Version:	 0.21.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[type-is]
+ Version:	 1.6.18
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typed-array-buffer]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typed-array-byte-length]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typed-array-byte-offset]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typed-array-length]
+ Version:	 1.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typed-assert]
+ Version:	 1.0.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typescript]
+ Version:	 4.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[typescript]
+ Version:	 4.8.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ua-parser-js]
+ Version:	 0.7.31
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unbox-primitive]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unicode-canonical-property-names-ecmascript]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unicode-match-property-ecmascript]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unicode-match-property-value-ecmascript]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unicode-property-aliases-ecmascript]
+ Version:	 2.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unique-filename]
+ Version:	 1.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unique-slug]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[universalify]
+ Version:	 0.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[unpipe]
+ Version:	 1.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[update-browserslist-db]
+ Version:	 1.0.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[uri-js]
+ Version:	 4.4.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[util-deprecate]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[utils-merge]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[uuid]
+ Version:	 8.3.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[validate-npm-package-license]
+ Version:	 3.0.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[validate-npm-package-name]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[vary]
+ Version:	 1.1.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[void-elements]
+ Version:	 2.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[watchpack]
+ Version:	 2.4.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wbuf]
+ Version:	 1.7.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wcwidth]
+ Version:	 1.0.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack]
+ Version:	 5.76.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack-dev-middleware]
+ Version:	 5.3.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack-dev-server]
+ Version:	 4.11.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack-merge]
+ Version:	 5.8.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack-sources]
+ Version:	 3.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[webpack-subresource-integrity]
+ Version:	 5.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[websocket-driver]
+ Version:	 0.7.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[websocket-extensions]
+ Version:	 0.1.4
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[which]
+ Version:	 1.3.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[which]
+ Version:	 2.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[which-boxed-primitive]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[which-typed-array]
+ Version:	 1.1.13
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wide-align]
+ Version:	 1.1.5
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wildcard]
+ Version:	 2.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wrap-ansi]
+ Version:	 7.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[wrappy]
+ Version:	 1.0.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ws]
+ Version:	 8.14.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[ws]
+ Version:	 8.2.3
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[y18n]
+ Version:	 5.0.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yallist]
+ Version:	 3.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yallist]
+ Version:	 4.0.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yaml]
+ Version:	 1.10.2
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yargs]
+ Version:	 16.2.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yargs]
+ Version:	 17.5.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yargs-parser]
+ Version:	 20.2.9
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yargs-parser]
+ Version:	 21.1.1
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[yocto-queue]
+ Version:	 0.1.0
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
+[zone.js]
+ Version:	 0.11.8
+ Type:		 npm
+ Found by:	 javascript-lock-cataloger
+
